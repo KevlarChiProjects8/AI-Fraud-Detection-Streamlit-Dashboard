@@ -14,7 +14,7 @@ This dashboard provides a comprehensive suite of tools to analyze credit card fr
 - **Interactive visualizations** (Heatmaps, Distribution Plots, ROC Curves)
 
 **Key Achievements**:
-- XGBoost model achieves **95.5% ROC-AUC**.
+- XGBoost model achieves **95.95% ROC-AUC**.
 - CNN model achieves **93.6% ROC-AUC**.
 - Improved fraud detection accuracy through ensemble insights and explainable AI.
 
