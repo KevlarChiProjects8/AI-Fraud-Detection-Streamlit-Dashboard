@@ -1,7 +1,5 @@
 # 🕵️ AI Fraud Detection Dashboard
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-demo-app-url.streamlit.app/)
-![GitHub](https://img.shields.io/github/license/yourusername/fraud-detection-dashboard)
 
 A Streamlit-powered dashboard for detecting fraudulent transactions using **XGBoost** and **CNN** models, featuring advanced analytics, statistical tests, and interactive visualizations.
 
